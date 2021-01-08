@@ -2,7 +2,7 @@
 
 Reference    | Category
 ------------ | -------------
-Cieslak, A., Morse, A., &amp; Vissing‐Jorgensen, A. (2019).The Journal of Finance, 74(5), 2201-2248. doi:10.1111/jofi.12818 | Asset Pricing
+Cieslak, A., Morse, A., &amp; Vissing‐Jorgensen, A. (2019).Stock Returns over the FOMC Cycle. The Journal of Finance, 74(5), 2201-2248. doi:10.1111/jofi.12818 | Asset Pricing
 
 
 ## 1. Summary
