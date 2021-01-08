@@ -1,9 +1,9 @@
 # Stock Returns over the FOMC Cycle
-Title	
-------------------------------------------
-|           Reference            |       Category       |
-| :----------------------------: | :------------------: |
-| Cieslak, A., Morse, A. & Vissing‐Jorgensen, A. (2019). Stock Returns over the FOMC Cycle. The Journal of Finance, 74(5), 2201-2248. doi:10.1111/jofi.12818 | Asset Pricing |
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 
 ## 1. Summary
